@@ -1,4 +1,3 @@
-
 const container = document.querySelector('.mt-6')
 const RGB = ['r', 'g', 'b']
 
